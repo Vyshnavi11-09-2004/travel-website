@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+#search {
+  margin: 2rem 0;
+}
+
+#search input {
+  padding: 0.5rem;
+  width: 200px;
+}
+
+#search button {
+  padding: 0.5rem;
+}
+
+#searchResults {
+  margin-top: 1rem;
+}
+
+#searchResults img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
+
+.destination img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
